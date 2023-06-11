@@ -101,6 +101,4 @@ public class Talkable : MonoBehaviour,Iinteractable
     }
 ```
 
-玩家的触发器进入可互动物体的时候，获取它的接口，然后按E键进行互动，调用接口中的**TriggerAction**
-
-方法
+玩家的触发器进入可互动物体的时候，获取它的接口，然后按E键进行互动，调用接口中的**TriggerAction**方法
